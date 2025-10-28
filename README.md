@@ -19,7 +19,7 @@ Olá! Sou desenvolvedora apaixonada por tecnologia, com interesse especial em de
 
 ## 📫 Como me encontrar
 - Email: akfmartins@gmail.com
-- LinkedIn: [linkedin.com/in/akfmartins](https://www.linkedin.com/in/akfmartins)
+- LinkedIn: [linkedin.com/in/anafrancomartins](https://www.linkedin.com/in/anafrancomartins/)
 - GitHub: [github.com/akfmartins](https://github.com/akfmartins)
 
 <!---

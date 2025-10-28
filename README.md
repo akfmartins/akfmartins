@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akfmartins Ana Carolina
 - 👀 I’m interested in tecnology, developer, games
-- 🌱 I’m currently learning Python and Java Script
-- 💞️ I’m looking to collaborate on Python
+- 🌱 I’m currently learning Python, Java Script, Java;
+- 💞️ I’m looking to collaborate on Python, Java
 - 📫 How to reach me akfmartins@gmail.com
 
 <!---
